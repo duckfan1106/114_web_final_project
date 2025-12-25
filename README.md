@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Media Content Sharing Platform
 
 A full-stack web application for sharing content, built with MERN stack (MongoDB, Express, React/Next.js, Node.js).
@@ -40,3 +41,7 @@ A full-stack web application for sharing content, built with MERN stack (MongoDB
 (See `docs/api-spec.md` for full details)
 
 - `GET /` - Check API status
+=======
+# 114_web_final_project
+資管3C 網路程式設計 期末專題
+>>>>>>> d82bd0eb421b95a6304fed7ca4eea78802ce1042
